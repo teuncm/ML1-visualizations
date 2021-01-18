@@ -1,2 +1,2 @@
-# ML1-visualizations
-Visualizations for the UvA ML1 course.
+# ML1 Visualizations
+This repo contains visualizations for several machine learning concepts introduced in the UvA ML1 course.
